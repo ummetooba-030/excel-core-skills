@@ -23,6 +23,6 @@ An interactive dashboard built on a 1,200+ row transactional dataset, breaking d
 
 ## Files
 
-📄 daily-sales-report-template.xlsx
-📄 inventory-management.xlsx
-📄 sales-dashboard.xlsx
+📄 [`daily-sales-report-template.xlsx`](daily-sales-report-template.xlsx)
+📄 [`inventory-management.xlsx`](inventory-management.xlsx)
+📄 [`sales-dashboard.xlsx`](sales-dashboard.xlsx)
